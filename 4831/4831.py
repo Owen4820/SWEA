@@ -1,7 +1,6 @@
 def list_cango(list_c, go_c, N):
     for i in range(0,len(list_c)-1):
         if list_c[i] + go_c < list_c[i+1]:
-            print("범위아웃")
             return 0
 
     count = 0

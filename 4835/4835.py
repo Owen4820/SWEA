@@ -1,5 +1,4 @@
 def list_sum(list_number, N, M):
-    print(list_number)
     list_sum = []
     for i in range(0,N-M+1):
         sum = 0

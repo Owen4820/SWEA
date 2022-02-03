@@ -20,9 +20,9 @@ def lowest_floor(x):
 for i in range(1,11):
     try_number = int(input())
     floor_list = list(map(int,input().split()))
+    high_idx, high_floor = highest_floor(floor_list)
+    low_idx, low_floor = lowest_floor(floor_list)
     for j in range(0, try_number):
-        high_idx, high_floor = highest_floor(floor_list)
-        low_idx, low_floor = lowest_floor(floor_list)
         floor_list[high_idx] -= 1
         floor_list[low_idx] +=1
         high_idx, high_floor = highest_floor(floor_list)
