@@ -33,3 +33,7 @@
 [1244(백준). 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 
 [1974. 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
+
+[1954. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
+
+[1979. 어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
