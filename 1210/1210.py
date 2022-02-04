@@ -1,6 +1,6 @@
-def find_arrive(x):
+def find_arrive(x): # 도착점의 idx값을 얻기 위한 함수이다.
     for i in range(0,100):
-        if x[-1][i] == 2:
+        if x[-1][i] == 2: # 사다리의 맨 아랫줄의 값들 중 2의 idx값을 구하였다.
             break
     return i
     

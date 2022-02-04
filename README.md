@@ -37,3 +37,6 @@
 [1954. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
 
 [1979. 어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
+
+[2001. 파리퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq)
+
